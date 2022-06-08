@@ -1,0 +1,29 @@
+body{
+    padding: 0px;
+    margin: 0px;
+}
+h1{
+    text-align: center;
+}
+.images{
+    margin: 0 auto;
+    display: flex;
+}
+.images img{
+    height: 300px;
+    width: 300px;
+    margin: 50px auto;
+    /* padding: 20px; */
+}
+.odd-pics img{
+    border: 3px solid black;
+    background-color: aqua;
+    margin: 20px;
+    padding: 20px;
+}
+.even-pics img{
+    border: 3px solid black;
+    background-color: pink;
+    margin: 20px;
+    padding: 20px;
+}
